@@ -7,10 +7,6 @@ This web aplication includes semantic html elements which follow a logical struc
 
 ![Horiseon Web App](assets/images/challenge1-webapp-screenshot.png "Horiseon")
 
-## Installation
-
-N/A
-
 ## Usage
 
 View this web application at:
