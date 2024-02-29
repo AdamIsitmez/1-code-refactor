@@ -11,7 +11,7 @@ This web aplication includes semantic html elements which follow a logical struc
 
 View this web application at:
 
-https://adzy404.github.io/challenge1-code-refactor/
+https://AdamIsitmez.github.io/challenge1-code-refactor/
 
 Use the links in nav bar to navigate to services that 'Horiseon' provides.
 
